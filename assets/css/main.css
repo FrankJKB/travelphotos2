@@ -204,6 +204,7 @@ h6 {
   font-size: 32px;
   margin-right: 8px;
   line-height: 0;
+  color:#393b3a;
 }
 
 @media (max-width: 575px) {
